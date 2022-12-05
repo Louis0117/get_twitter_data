@@ -12,7 +12,7 @@ from twarc import Twarc2, expansions
 import pandas as pd
 
 # your own bearer token
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAABEKZAEAAAAA6vILkBUpPwW4aKkcVu5mGLbM9%2Fg%3Dlkdi56ctSiHurdLzAvjCd4RTE8v08Bfp7sxrlaH7UBYJCFNV3C'
+BEARER_TOKEN = ''
 
 # client initialized, you will be ready to start using the various functions in tweepy.
 def connect_tweepy_client():   
